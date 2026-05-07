@@ -1,8 +1,8 @@
 class Minimap < Formula
   desc "Shared navigation memory for AI agents working in Android codebases"
   homepage "https://github.com/himattm/minimap"
-  url "https://github.com/himattm/minimap/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "19d905d3076fcfba1e64e75dc3e0d661fb9f5c935f6f35fcc33f5076b581174a"
+  url "https://github.com/himattm/minimap/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "756268ba569b8c596a930b4ac2d6132df5103a9dacbd57f146bb408b3cdbdd0e"
   license "Apache-2.0"
   head "https://github.com/himattm/minimap.git", branch: "main"
 
